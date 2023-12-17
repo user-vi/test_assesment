@@ -1,3 +1,6 @@
+# Data exploration & Insights search
+https://github.com/user-vi/test_assesment/blob/main/Data_exploration_and_Insights_search.ipynb
+
 # Monetization analysis & Pricing experiments
 1. How can we improve subscriber retention? Propose 3 ideas per both product improvements and enhancing monetization techniques.
 
