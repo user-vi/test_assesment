@@ -12,6 +12,7 @@ We improve subscriber retention to improving an engagement, happyness, motivatio
 - Market research. Сompetitive market analysis and provide the same new features. (subscriber retention)
 - Motivation. Motivation is the most importance part of education. For example, set up student's goals and remind about it. (subscriber retention)
 - AI teacher. Propose personal recommendation using AI and student's progress. AI algorithm analyses behavior, preferences, and engagement patterns. AI helps to student to get positive changes faster and offer more relevant lessons. Promote this feature for marketing strategies as AI innovation. (subscriber retention)
+- Feedback. Student can vote in lessons. For example, like or dislike. (subscriber retention)
 
 
 2. How can LTV be used to inform monetization strategies and experiments?
